@@ -2,6 +2,8 @@
 
 Project Phase-I: DES encryption/decryption algorithm with two working modes - ECB and CBC.
 
+**Submitted by:** Md Zahidul Islam and Parikshit Jadav
+
 1. Save all the files in one directory.
 
 2. Run my_example.py
