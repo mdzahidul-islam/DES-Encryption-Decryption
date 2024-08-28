@@ -1,8 +1,10 @@
 # Computer Network Security EECE 5850 (UML)
 
-Project Phase-I: DES encryption/decryption algorithm with two working modes - ECB and CBC.
+**Project Phase-I:** DES encryption/decryption algorithm with two working modes - ECB and CBC.
 
 **Submitted by:** Md Zahidul Islam and Parikshit Jadav
+
+## Instructions:
 
 1. Save all the files in one directory.
 
